@@ -10125,7 +10125,7 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
+    "KarmaType": "Bad",
     "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
@@ -10378,7 +10378,7 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "KarmaType": "Neutral",
+    "KarmaType": "Bad",
     "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
