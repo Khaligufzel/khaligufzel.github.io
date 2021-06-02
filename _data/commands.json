@@ -103,6 +103,16 @@
     "data": {
       "isShortcut": false
     },
+    "description": "Gives a viewer some of your coins.",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Adds you to the name queue.",
     "name": "Join queue",
     "usage": "!joinqueue",
@@ -166,16 +176,6 @@
     "description": "Shows you the current list of commands, which may or may not be this list.",
     "name": "All commands",
     "usage": "!allcommands",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
-    "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
   },

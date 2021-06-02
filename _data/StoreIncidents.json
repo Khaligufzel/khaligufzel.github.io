@@ -61,11 +61,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "flashstorm",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
@@ -79,16 +74,6 @@
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "volcanicwinter",
-		"price": 3200,
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
@@ -357,7 +342,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -396,5 +381,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 76
 }
