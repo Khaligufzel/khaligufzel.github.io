@@ -263,16 +263,6 @@
     "data": {
       "isShortcut": true
     },
-    "description": "A resurrector mech serum for a random dead colonist.",
-    "name": "Revive any pawn",
-    "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
     "description": "A healer mech serum for a random colonist.",
     "name": "Heal any pawn",
     "usage": "!healanypawn",
