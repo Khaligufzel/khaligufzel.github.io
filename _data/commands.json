@@ -573,6 +573,15 @@
     "data": {
       "isShortcut": false
     },
+    "name": "Dsads",
+    "usage": "!",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
     "name": "hello",
     "usage": "!hello",
     "userLevel": "Moderator",
