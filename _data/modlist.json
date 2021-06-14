@@ -22,18 +22,6 @@
     "name": "Almost There!"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.7.0"
-  },
-  {
     "author": "YAYO",
     "name": "Yayo's Combat 3",
     "steamId": "2038409475",
@@ -46,10 +34,154 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Arid Shrubland",
+    "steamId": "1836900626",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Australia"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Boreal Forest"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Cats and Dogs"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Desert"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Extreme Desert"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Rainforest"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Swamp"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tundra"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Apparel Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Armour Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded"
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Furniture Expanded - Production"
+  },
+  {
+    "author": "Oskar Potocki, Trunken, XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Weapons Expanded"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings"
+  },
+  {
     "author": "Oskar Potocki, Taranchuk, Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits"
   },
   {
     "author": "Atlas, aRandomKiwi",
@@ -84,24 +216,6 @@
   {
     "author": "Falconne",
     "name": "Avoid Friendly Fire"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Apparel Expanded"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Armour Expanded"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Hair Expanded",
-    "steamId": "1888705256",
-    "version": "1.0.3"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Weapons Expanded"
   },
   {
     "author": "NotooShabby",
@@ -140,12 +254,6 @@
     "name": "CleaningArea"
   },
   {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
-  },
-  {
     "author": "PorqueNoLosDos",
     "name": "Color Coded Mood Bar"
   },
@@ -176,10 +284,6 @@
     "name": "Designator Shapes",
     "steamId": "1235181370",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Spincrus",
-    "name": "Dinosauria"
   },
   {
     "author": "tikubonn",
@@ -294,10 +398,20 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sarg",
     "name": "Genetic Rim",
     "steamId": "1113137502",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "GeneticRim Alpha Animals Patch"
   },
   {
     "author": "Roolo",
@@ -306,10 +420,6 @@
   {
     "author": "Roolo",
     "name": "Giddy-up! Core"
-  },
-  {
-    "author": "Sarg",
-    "name": "Giddy-Up! Add-on: Animal Saddles"
   },
   {
     "author": "Roolo",
@@ -323,15 +433,31 @@
   },
   {
     "author": "Roolo",
-    "name": "Giddy-up! Mechanoids"
-  },
-  {
-    "author": "Roolo",
     "name": "Giddy-up! Ride and Roll"
   },
   {
-    "author": "OskarPotocki, Atlas, Kikohi",
-    "name": "Vanilla Furniture Expanded"
+    "author": "Spino",
+    "name": "Megafauna"
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria"
+  },
+  {
+    "author": "Sarg",
+    "name": "GeneticRim Dinosauria Patch"
+  },
+  {
+    "author": "Sarg",
+    "name": "GeneticRim Megafauna Patch"
+  },
+  {
+    "author": "Sarg",
+    "name": "Giddy-Up! Add-on: Animal Saddles"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Mechanoids"
   },
   {
     "author": "GloomyLynx NukaFrog",
@@ -406,6 +532,12 @@
     "name": "Level Up!",
     "steamId": "1701592470",
     "version": "1.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "List Everything",
+    "steamId": "1706669545",
+    "version": "1.0.0.0"
   },
   {
     "author": "Ratys",
@@ -574,6 +706,24 @@
     "version": "2.1.0.0"
   },
   {
+    "author": "Helixien, Taranchuk, Alastair",
+    "name": "ReGrowth: Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "ReGrowth: Boreal Forest Expansion"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "ReGrowth: Desert Expansion"
+  },
+  {
+    "author": "Crlsniper",
+    "name": "Realistic Rooms"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD"
   },
@@ -619,7 +769,7 @@
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
-    "version": "1.2.1106"
+    "version": "1.2.1111"
   },
   {
     "author": "Uuugggg",
@@ -642,12 +792,6 @@
     "name": "RuntimeGC",
     "steamId": "2228430510",
     "version": "20.0.15.1"
-  },
-  {
-    "author": "Oskar Potocki, Kikohi, Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
   },
   {
     "author": "Kentington and Thain",
@@ -782,12 +926,6 @@
     "name": "Vanilla Brewing Expanded - Coffees and Teas"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
     "name": "Vanilla Plants Expanded"
   },
@@ -804,112 +942,6 @@
     "name": "Vanilla Cooking Expanded - Sushi"
   },
   {
-    "author": "Oskar Potocki, Kikohi, Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Arid Shrubland",
-    "steamId": "1836900626",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Australia"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Boreal Forest"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Cats and Dogs"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Desert"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Extreme Desert"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Ice Sheet"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Rainforest"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tropical Swamp"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Tundra"
-  },
-  {
-    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
-    "name": "Vanilla Factions Expanded - Settlers",
-    "steamId": "2052918119",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Oskar Potocki, dninemfive, Kikohi",
-    "name": "Vanilla Furniture Expanded - Farming"
-  },
-  {
-    "author": "OskarPotocki, Atlas, Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Furniture Expanded - Production"
-  },
-  {
-    "author": "Oskar Potocki, Trunken, XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
-  },
-  {
-    "author": "OskarPotocki, Atlas, Kikohi",
-    "name": "Vanilla Furniture Expanded - Spacer Module"
-  },
-  {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
-  },
-  {
-    "author": "Vanilla Expanded team",
-    "name": "Vanilla Factions Expanded - Vikings"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson",
     "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn"
   },
@@ -922,12 +954,16 @@
     "name": "Vanilla Furniture Expanded - Props and Decor"
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Hair Expanded - Beards"
-  },
-  {
     "author": "Oskar Potocki, Alestria",
     "name": "Vanilla Plants Expanded - Succulents"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Luizi",
+    "name": "Vanilla Textures Expanded - Genetic Rim"
   },
   {
     "author": "Oskar Potocki, AveryTheKitty, Taranchuk",
@@ -990,12 +1026,16 @@
     "name": "[CP] Detailed Body Textures II"
   },
   {
-    "author": "Crlsniper",
-    "name": "Realistic Rooms"
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Cold Bog Expansion"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time"
+    "author": "Helixien, Alastair, Taranchuk",
+    "name": "[HLX] ReGrowth - Temperate Forest Expansion"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Tundra Expansion"
   },
   {
     "author": "Helixien, Taranchuk, Saakra, OskarPotocki",
@@ -1008,6 +1048,12 @@
     "name": "[KV] Configurable Maps",
     "steamId": "1507370392",
     "version": "1.0.7529.18835"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Consolidated Traits",
+    "steamId": "1507384362",
+    "version": "1.0.7516.1272"
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
@@ -1050,5 +1096,11 @@
   {
     "author": "Ryflamer",
     "name": "[Ry]Rimcraft Factions"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Trait Value",
+    "steamId": "2451324814",
+    "version": "1.0.0.0"
   }
 ]
