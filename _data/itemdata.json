@@ -22681,17 +22681,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "rxBench": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Remote Tech",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "PotassiumIodide": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22747,7 +22736,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "rxTableDetonator": {
+  "rxBench": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -23044,7 +23033,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "rxCharcoal": {
+  "rxTableDetonator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -23220,14 +23209,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "MechSerumYouth": {
+  "rxCharcoal": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Sometimes Raids Go Wrong",
+    "Mod": "Remote Tech",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -30158,6 +30147,116 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "[HLX] ReGrowth - Temperate Forest Expansion",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AEXP_EggWildGooseUnfertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AEXP_EggWildGooseFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AEXP_RedPanda": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AEXP_Badger": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AEXP_WildGoose": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AEXP_Beaver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AEXP_Hedgehog": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_AEXP_RedPanda": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_AEXP_Badger": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_AEXP_Hedgehog": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Animals Expanded — Temperate Forest",
     "QuantityLimit": -1,
     "Weight": 1.0
   }

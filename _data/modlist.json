@@ -852,12 +852,6 @@
     "version": "0.7.3"
   },
   {
-    "author": "MarvinKosh",
-    "name": "Sometimes Raids Go Wrong",
-    "steamId": "1551336515",
-    "version": "1.0.7603.566"
-  },
-  {
     "author": "Fluffy",
     "name": "Stuffed Floors",
     "steamId": "853043503",
@@ -912,6 +906,10 @@
     "name": "Vanilla Animals Expanded — Endangered",
     "steamId": "2366589898",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Temperate Forest"
   },
   {
     "author": "Oskar Potocki, Taranchuk",

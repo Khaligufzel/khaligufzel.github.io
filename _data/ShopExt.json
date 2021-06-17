@@ -4688,8 +4688,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 1500,
       "removePrice": 2000,
       "defName": "AIRobot_BaseTrait",
@@ -5662,8 +5662,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 1500,
       "removePrice": 2000,
       "defName": "RT_DemoCommon",
@@ -5681,8 +5681,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 1500,
       "removePrice": 2000,
       "defName": "RT_DemoEpic",
@@ -5700,8 +5700,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 1500,
       "removePrice": 2000,
       "defName": "RT_DemoLegendary",
@@ -5719,8 +5719,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 1500,
       "removePrice": 2000,
       "defName": "RT_DemoRare",
@@ -5738,8 +5738,8 @@
       "bypassLimit": false
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 1500,
       "removePrice": 2000,
       "defName": "RT_DemoUncommon",
